@@ -1,0 +1,230 @@
+[
+  {
+    "Key": "UseRRUIEventsScreen",
+    "Value": "true"
+  },
+  {
+    "Key": "MagicDoor.DestinationRefreshingText",
+    "Value": "New room in"
+  },
+  {
+    "Key": "Screens.ForceVerification",
+    "Value": "0"
+  },
+  {
+    "Key": "Screens.MinimalHUD",
+    "Value": "0"
+  },
+  {
+    "Key": "Growth.FriendFestPromosActive",
+    "Value": "true"
+  },
+  {
+    "Key": "Growth.FriendFestImageName",
+    "Value": "FriendFest.jpg"
+  },
+  {
+    "Key": "Door.Creative.Title",
+    "Value": "PUZZLES"
+  },
+  {
+    "Key": "Door.Creative.Query",
+    "Value": "#puzzle"
+  },
+  {
+    "Key": "Door.Featured.Title",
+    "Value": "Featured"
+  },
+  {
+    "Key": "Door.Featured.Query",
+    "Value": "#featured"
+  },
+  {
+    "Key": "Door.Quests.Title",
+    "Value": "QUESTS"
+  },
+  {
+    "Key": "Door.Quests.Query",
+    "Value": "#quest #rro"
+  },
+  {
+    "Key": "Door.Shooters.Title",
+    "Value": "TEST"
+  },
+  {
+    "Key": "Door.Shooters.Query",
+    "Value": "^InventionTower"
+  },
+  {
+    "Key": "Door.Sports.Title",
+    "Value": "SPORTS & REC"
+  },
+  {
+    "Key": "Door.Sports.Query",
+    "Value": "#rro #sport"
+  },
+  {
+    "Key": "splitTestHardOverrides",
+    "Value": "Curated_Rooms_2020_08_06=On;PlayMenuRRUI_2021_01_11=On;PlayMenuRRUI_HotRoomsCarousel_2021_02_09=On;PlayMenuRRUI_CarouselOrdering_2021_02_09=PlayMenuCarouselOrdering_1;CreationCommands_2021_02_16=On;RecRoomPlus_DormMirrorButton_2021_03_09=ButtonOn;CurrentContestWinnersCarouselVisibility_2021_04_15=On;MutualFriends_2021_04_22=On;PlayMenuRRUI_DefaultTab_2021_05_13=Highlight;DefaultNewPlayersToPlayMenu_2021_05_24=On;ShowNewRRPlusIcon_2021_06_01=NewIcon;ParallelNetworkingInitialRoomLoad_2021_06_28=ParallelLoad;ShowNewRRPlusBenefitsPage_2021_06_14=NewPage;WatchStoreHomepageLayout_2021_06_14=OldStoreLayout;NotificationPermissionsExplanationText_2021_06_25=Control;"
+  },
+  {
+    "Key": "splitTestSoftOverrides",
+    "Value": ""
+  },
+  {
+    "Key": "RRUI.UseRRUIHomeScreen",
+    "Value": "true"
+  },
+  {
+    "Key": "UGC.ScreenSharing.CompressionQualityMultiplier",
+    "Value": "1.0"
+  },
+  {
+    "Key": "UGC.ScreenSharing.RefreshHzMultiplier",
+    "Value": "15.0"
+  },
+  {
+    "Key": "UGC.ScreenSharing.ResolutionMultiplier",
+    "Value": "0.2"
+  },
+  {
+    "Key": "UGC.ScreenSharing.EnableZipCompression",
+    "Value": "true"
+  },
+  {
+    "Key": "UGC.ScreenSharing.MaxFragmentBytes",
+    "Value": "15360"
+  },
+  {
+    "Key": "UGC.EnableRRUIConfigMenu",
+    "Value": "true"
+  },
+  {
+    "Key": "MagicDoor.NewDestinationText",
+    "Value": "New room"
+  },
+  {
+    "Key": "UGC.Circuits.MaxChipResources",
+    "Value": "50000"
+  },
+  {
+    "Key": "UGC.Persistence.MaxCloudVariables",
+    "Value": "1000"
+  },
+  {
+    "Key": "UGC.Persistence.Enabled",
+    "Value": "true"
+  },
+  {
+    "Key": "UGC.UseDeveloperMode",
+    "Value": "true"
+  },
+  {
+    "Key": "UGC.IgnoreInkCost",
+    "Value": "true"
+  },
+  {
+    "Key": "UGC.RoomSavingEnabled",
+    "Value": "true"
+  },
+  {
+    "Key": "loadingNetworkTimeout",
+    "Value": "180"
+  },
+  {
+    "Key": "runningNetworkTimeout",
+    "Value": "30"
+  },
+  {
+    "Key": "RRUI.UseNewProfile",
+    "Value": "true"
+  },
+  {
+    "Key": "PlayMenuCarouselOrdering_1",
+    "Value": "hotrooms=23;new=22;recroomoriginals=21;continueplaying=20;rising=19;myfavorites=18;friendsplaying=17;topearning=16;mysubscriptions=15;featured=5;recommended=4;staffcurated=3;"
+  },
+  {
+    "Key": "LeagueOfHeroesEnabled",
+    "Value": "true"
+  },
+  {
+    "Key": "UGC.ForbiddenSavedSpawnableTools",
+    "Value": ""
+  },
+  {
+    "Key": "splitTestSegmentProbabilities",
+    "Value": ""
+  },
+  {
+    "Key": "Backtrace.enabledLikelihood",
+    "Value": "0"
+  },
+  {
+    "Key": "Backtrace.config",
+    "Value": ""
+  },
+  {
+    "Key": "Backtrace.versionRegex",
+    "Value": ""
+  },
+  {
+    "Key": "Backtrace.messageRegex",
+    "Value": ""
+  },
+  {
+    "Key": "Backtrace.stopTimeUTC",
+    "Value": "9999-12-31T00:00:00Z"
+  },
+  {
+    "Key": "SynchronizedField.RemoveDefaultEntries",
+    "Value": "false"
+  },
+  {
+    "Key": "Rendering.DisableSrpBatcher",
+    "Value": "false"
+  },
+  {
+    "Key": "ClickOnName.MaxRaycastDistance",
+    "Value": "15"
+  },
+  {
+    "Key": "Friends.PostGamePromptUnderFriendCount",
+    "Value": "10"
+  },
+  {
+    "Key": "Friends.SuggestFriendCodeOnFriendsScreenCount",
+    "Value": "25"
+  },
+  {
+    "Key": "Growth.EnableProfilePhoneButton",
+    "Value": "true"
+  },
+  {
+    "Key": "OldStoreLayout",
+    "Value": "banner=12;storecampaigns=11;tokenpack=10;allskus=9;hotitem=8;hotinvention=7;newitem=6;mysubscriptioninvention=5;rrplusitem=4;fivestaritem=3;skinsitem=2;hairdyeitem=1;"
+  },
+  {
+    "Key": "Rewards.UseRewardSelection",
+    "Value": "true"
+  },
+  {
+    "Key": "RoomDetails.PhotoRollEnabled",
+    "Value": "true"
+  },
+  {
+    "Key": "UGC.EnableInventionsInBetaRooms",
+    "Value": "true"
+  },
+  {
+    "Key": "UGC.MaxChipsUnculled",
+    "Value": "500"
+  },
+  {
+    "Key": "UGC.MaxChipsVisible",
+    "Value": "1000"
+  },
+  {
+    "Key": "UGC.Persistence.AutosaveIntervalSeconds",
+    "Value": "300"
+  }
+]

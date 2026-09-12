@@ -1,0 +1,72 @@
+[
+  {
+    "AvatarItemType": 0,
+    "AvatarItemDesc": "4308da04-af84-40bb-845a-7a9e1a2726ec,,,",
+    "FriendlyName": "Mobster Suit (Pinstripe)",
+    "ToolTip": "",
+    "Rarity": 30
+  },
+  {
+    "AvatarItemType": 0,
+    "AvatarItemDesc": "b904304b-cce0-466f-8569-c621eeadd4f7,,,",
+    "FriendlyName": "Boxing Gloves (Blue)",
+    "ToolTip": "",
+    "Rarity": 50
+  },
+  {
+    "AvatarItemType": 0,
+    "AvatarItemDesc": "b0c8d3fe-d3de-4883-b63f-8cc8890537cb,,,",
+    "FriendlyName": "Gunslinger Vest",
+    "ToolTip": "",
+    "Rarity": 50
+  },
+  {
+    "AvatarItemType": 0,
+    "AvatarItemDesc": "9d9fadb6-97eb-480e-a224-4e0179082071,,,",
+    "FriendlyName": "Hair_MeatballBuns",
+    "ToolTip": "",
+    "Rarity": 0
+  },
+  {
+    "AvatarItemType": 0,
+    "AvatarItemDesc": "8aa79563-ace1-4ba7-ad0c-f3210a78142f,,,",
+    "FriendlyName": "FemaleTShirt",
+    "ToolTip": "",
+    "Rarity": 0
+  },
+  {
+    "AvatarItemType": 0,
+    "AvatarItemDesc": "92302d9d-c527-418c-ac5d-1fa869727505,,,",
+    "FriendlyName": "Hair_Part",
+    "ToolTip": "",
+    "Rarity": 0
+  },
+  {
+    "AvatarItemType": 0,
+    "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,95e4cc30-cb68-473d-a395-feadf5b51512,0440f08f-ef1d-49d8-942b-523056e8bb45,",
+    "FriendlyName": "MaleTShirt",
+    "ToolTip": "",
+    "Rarity": 0
+  },
+  {
+    "AvatarItemType": 0,
+    "AvatarItemDesc": "1fd69ef8-0b74-4962-af5a-67f0bf0358f2,,,",
+    "FriendlyName": "Hair_Ponytail",
+    "ToolTip": "",
+    "Rarity": 0
+  },
+  {
+    "AvatarItemType": 0,
+    "AvatarItemDesc": "193a3bf9-abc0-4d78-8d63-92046908b1c5,,,",
+    "FriendlyName": "Hair_Emo",
+    "ToolTip": "",
+    "Rarity": 0
+  },
+  {
+    "AvatarItemType": 0,
+    "AvatarItemDesc": "880a3cc0-7407-4b61-b759-f9dd890fe9e5,,,",
+    "FriendlyName": "Hair_Bob",
+    "ToolTip": "",
+    "Rarity": 0
+  }
+]

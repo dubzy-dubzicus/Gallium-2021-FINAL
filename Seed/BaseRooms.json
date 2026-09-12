@@ -1,0 +1,2423 @@
+[
+  {
+    "RoomId": 3,
+    "IsDorm": false,
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 10,
+    "CloningAllowed": false,
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ToxmodEnabled": false,
+    "LoadScreenLocked": false,
+    "PersistenceVersion": 1,
+    "AutoLocalizeRoom": false,
+    "IsDeveloperOwned": false,
+    "RankedEntityId": "",
+    "Name": "MakerRoom",
+    "Description": "This room is a blank canvas. Make it into whatever you like!",
+    "ImageName": "RoomImage94ea3a99151a46fcb2bfea4493565aa5.png",
+    "WarningMask": 0,
+    "CustomWarning": "",
+    "CreatorAccountId": 1,
+    "State": 0,
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "IsRRO": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsQuest2": true,
+    "SupportsMobile": true,
+    "SupportsJuniors": true,
+    "MinLevel": 0,
+    "CreatedAt": "2024-02-24T19:11:11.9233036",
+    "Stats": {
+      "CheerCount": 3,
+      "FavoriteCount": 3,
+      "VisitorCount": 0,
+      "VisitCount": 11
+    },
+    "RankingContext": 0,
+    "SubRooms": [
+      {
+        "SubRoomId": 3,
+        "RoomId": 3,
+        "Name": "Home",
+        "DataBlob": "",
+        "IsSandbox": false,
+        "MaxPlayers": 12,
+        "Accessibility": 1,
+        "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "SavedByAccountId": -1
+      }
+    ],
+    "Roles": [
+      {
+        "AccountId": 1,
+        "Role": 255,
+        "InvitedRole": 0
+      }
+    ],
+    "DataBlob": null,
+    "UgcVersion": 1,
+    "Tags": [
+      {
+        "Tag": "base",
+        "Type": 0
+      }
+    ],
+    "PromoImages": [],
+    "PromoExternalContent": [],
+    "LoadScreens": []
+  },
+  {
+    "RoomId": 16,
+    "IsDorm": false,
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 10,
+    "CloningAllowed": true,
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ToxmodEnabled": false,
+    "LoadScreenLocked": false,
+    "PersistenceVersion": 1,
+    "AutoLocalizeRoom": false,
+    "IsDeveloperOwned": false,
+    "RankedEntityId": "",
+    "Name": "Lounge",
+    "Description": "A low-key lounge to chill with your friends. Great for private parties!",
+    "ImageName": "Lounge",
+    "WarningMask": 0,
+    "CustomWarning": "",
+    "CreatorAccountId": 1,
+    "State": 0,
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "IsRRO": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsQuest2": true,
+    "SupportsMobile": true,
+    "SupportsJuniors": true,
+    "MinLevel": 0,
+    "CreatedAt": "2024-02-24T19:11:13.688148",
+    "Stats": {
+      "CheerCount": 7,
+      "FavoriteCount": 6,
+      "VisitorCount": 0,
+      "VisitCount": 136
+    },
+    "RankingContext": 0,
+    "SubRooms": [
+      {
+        "SubRoomId": 21,
+        "RoomId": 16,
+        "Name": "Home",
+        "DataBlob": "",
+        "IsSandbox": true,
+        "MaxPlayers": 12,
+        "Accessibility": 1,
+        "UnitySceneId": "a067557f-ca32-43e6-b6e5-daaec60b4f5a",
+        "SavedByAccountId": -1
+      }
+    ],
+    "Roles": [
+      {
+        "AccountId": 3,
+        "Role": 20,
+        "InvitedRole": 0
+      },
+      {
+        "AccountId": 6,
+        "Role": 20,
+        "InvitedRole": 0
+      },
+      {
+        "AccountId": 13,
+        "Role": 20,
+        "InvitedRole": 0
+      },
+      {
+        "AccountId": 2,
+        "Role": 20,
+        "InvitedRole": 0
+      },
+      {
+        "AccountId": 62,
+        "Role": 20,
+        "InvitedRole": 0
+      },
+      {
+        "AccountId": 1,
+        "Role": 255,
+        "InvitedRole": 0
+      }
+    ],
+    "DataBlob": null,
+    "UgcVersion": 1,
+    "Tags": [
+      {
+        "Tag": "base",
+        "Type": 0
+      },
+      {
+        "Tag": "hangout",
+        "Type": 0
+      },
+      {
+        "Tag": "rro",
+        "Type": 0
+      }
+    ],
+    "PromoImages": [],
+    "PromoExternalContent": [],
+    "LoadScreens": []
+  },
+  {
+    "RoomId": 17,
+    "IsDorm": false,
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 10,
+    "CloningAllowed": true,
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ToxmodEnabled": false,
+    "LoadScreenLocked": false,
+    "PersistenceVersion": 1,
+    "AutoLocalizeRoom": false,
+    "IsDeveloperOwned": false,
+    "RankedEntityId": "",
+    "Name": "Park",
+    "Description": "A sprawling park with amphitheater, play fields, and a cave.",
+    "ImageName": "Park",
+    "WarningMask": 0,
+    "CustomWarning": "",
+    "CreatorAccountId": 1,
+    "State": 0,
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "IsRRO": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsQuest2": true,
+    "SupportsMobile": true,
+    "SupportsJuniors": true,
+    "MinLevel": 0,
+    "CreatedAt": "2024-02-24T19:11:13.8440497",
+    "Stats": {
+      "CheerCount": 5,
+      "FavoriteCount": 6,
+      "VisitorCount": 0,
+      "VisitCount": 298
+    },
+    "RankingContext": 0,
+    "SubRooms": [
+      {
+        "SubRoomId": 22,
+        "RoomId": 17,
+        "Name": "Home",
+        "DataBlob": "RoomData6930d1005df8486cb51308ed45f9827c.room",
+        "IsSandbox": true,
+        "MaxPlayers": 12,
+        "Accessibility": 1,
+        "UnitySceneId": "0a864c86-5a71-4e18-8041-8124e4dc9d98",
+        "SavedByAccountId": 48
+      }
+    ],
+    "Roles": [
+      {
+        "AccountId": 3,
+        "Role": 20,
+        "InvitedRole": 0
+      },
+      {
+        "AccountId": 6,
+        "Role": 20,
+        "InvitedRole": 0
+      },
+      {
+        "AccountId": 13,
+        "Role": 20,
+        "InvitedRole": 0
+      },
+      {
+        "AccountId": 62,
+        "Role": 20,
+        "InvitedRole": 0
+      },
+      {
+        "AccountId": 2,
+        "Role": 20,
+        "InvitedRole": 0
+      },
+      {
+        "AccountId": 1,
+        "Role": 255,
+        "InvitedRole": 0
+      }
+    ],
+    "DataBlob": null,
+    "UgcVersion": 1,
+    "Tags": [
+      {
+        "Tag": "base",
+        "Type": 0
+      },
+      {
+        "Tag": "hangout",
+        "Type": 0
+      },
+      {
+        "Tag": "rro",
+        "Type": 0
+      }
+    ],
+    "PromoImages": [],
+    "PromoExternalContent": [],
+    "LoadScreens": []
+  },
+  {
+    "RoomId": 24,
+    "IsDorm": false,
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 10,
+    "CloningAllowed": true,
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ToxmodEnabled": false,
+    "LoadScreenLocked": false,
+    "PersistenceVersion": 1,
+    "AutoLocalizeRoom": false,
+    "IsDeveloperOwned": false,
+    "RankedEntityId": "",
+    "Name": "Soccer",
+    "Description": "Teams of three run around slamming themselves into an over-sized soccer ball. Goal!",
+    "ImageName": "Soccer",
+    "WarningMask": 0,
+    "CustomWarning": "",
+    "CreatorAccountId": 1,
+    "State": 0,
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "IsRRO": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsQuest2": true,
+    "SupportsMobile": true,
+    "SupportsJuniors": true,
+    "MinLevel": 0,
+    "CreatedAt": "2024-02-24T19:11:14.9840954",
+    "Stats": {
+      "CheerCount": 6,
+      "FavoriteCount": 7,
+      "VisitorCount": 0,
+      "VisitCount": 123
+    },
+    "RankingContext": 0,
+    "SubRooms": [
+      {
+        "SubRoomId": 35,
+        "RoomId": 24,
+        "Name": "Home",
+        "DataBlob": "",
+        "IsSandbox": false,
+        "MaxPlayers": 6,
+        "Accessibility": 1,
+        "UnitySceneId": "6d5eea4b-f069-4ed0-9916-0e2f07df0d03",
+        "SavedByAccountId": -1
+      }
+    ],
+    "Roles": [
+      {
+        "AccountId": 1,
+        "Role": 255,
+        "InvitedRole": 0
+      }
+    ],
+    "DataBlob": null,
+    "UgcVersion": 1,
+    "Tags": [
+      {
+        "Tag": "base",
+        "Type": 0
+      },
+      {
+        "Tag": "game",
+        "Type": 0
+      },
+      {
+        "Tag": "rro",
+        "Type": 0
+      }
+    ],
+    "PromoImages": [],
+    "PromoExternalContent": [],
+    "LoadScreens": []
+  },
+  {
+    "RoomId": 151,
+    "IsDorm": false,
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 10,
+    "CloningAllowed": false,
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ToxmodEnabled": false,
+    "LoadScreenLocked": false,
+    "PersistenceVersion": 1,
+    "AutoLocalizeRoom": false,
+    "IsDeveloperOwned": false,
+    "RankedEntityId": "",
+    "Name": "FrontierUGC",
+    "Description": "yeah!",
+    "ImageName": "RecRoyale",
+    "WarningMask": 0,
+    "CustomWarning": "",
+    "CreatorAccountId": 1,
+    "State": 0,
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "IsRRO": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsQuest2": true,
+    "SupportsMobile": true,
+    "SupportsJuniors": true,
+    "MinLevel": 0,
+    "CreatedAt": "2024-03-04T01:08:29.1650516",
+    "Stats": {
+      "CheerCount": 1,
+      "FavoriteCount": 1,
+      "VisitorCount": 0,
+      "VisitCount": 0
+    },
+    "RankingContext": 0,
+    "SubRooms": [
+      {
+        "SubRoomId": 227,
+        "RoomId": 151,
+        "Name": "Home",
+        "DataBlob": "",
+        "IsSandbox": false,
+        "MaxPlayers": 12,
+        "Accessibility": 1,
+        "UnitySceneId": "a16bfd31-ffb9-46ac-a199-362c163130c0",
+        "SavedByAccountId": -1
+      }
+    ],
+    "Roles": [
+      {
+        "AccountId": 1,
+        "Role": 255,
+        "InvitedRole": 0
+      }
+    ],
+    "DataBlob": null,
+    "UgcVersion": 1,
+    "Tags": [
+      {
+        "Tag": "base",
+        "Type": 0
+      }
+    ],
+    "PromoImages": [],
+    "PromoExternalContent": [],
+    "LoadScreens": []
+  },
+  {
+    "RoomId": 152,
+    "IsDorm": false,
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 10,
+    "CloningAllowed": false,
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ToxmodEnabled": false,
+    "LoadScreenLocked": false,
+    "PersistenceVersion": 1,
+    "AutoLocalizeRoom": false,
+    "IsDeveloperOwned": false,
+    "RankedEntityId": "",
+    "Name": "TheInkSpace",
+    "Description": "It's the ink space",
+    "ImageName": "3DCharades",
+    "WarningMask": 0,
+    "CustomWarning": "",
+    "CreatorAccountId": 1,
+    "State": 0,
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "IsRRO": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsQuest2": true,
+    "SupportsMobile": true,
+    "SupportsJuniors": true,
+    "MinLevel": 0,
+    "CreatedAt": "2024-03-04T01:08:29.3910077",
+    "Stats": {
+      "CheerCount": 0,
+      "FavoriteCount": 0,
+      "VisitorCount": 0,
+      "VisitCount": 0
+    },
+    "RankingContext": 0,
+    "SubRooms": [
+      {
+        "SubRoomId": 228,
+        "RoomId": 152,
+        "Name": "Home",
+        "DataBlob": "",
+        "IsSandbox": true,
+        "MaxPlayers": 12,
+        "Accessibility": 1,
+        "UnitySceneId": "1fa06e3c-c307-4c11-a91b-1fabcddb8a96",
+        "SavedByAccountId": -1
+      }
+    ],
+    "Roles": [
+      {
+        "AccountId": 1,
+        "Role": 255,
+        "InvitedRole": 0
+      }
+    ],
+    "DataBlob": null,
+    "UgcVersion": 1,
+    "Tags": [
+      {
+        "Tag": "base",
+        "Type": 0
+      }
+    ],
+    "PromoImages": [],
+    "PromoExternalContent": [],
+    "LoadScreens": []
+  },
+  {
+    "RoomId": 167,
+    "IsDorm": false,
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 10,
+    "CloningAllowed": true,
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ToxmodEnabled": false,
+    "LoadScreenLocked": false,
+    "PersistenceVersion": 1,
+    "AutoLocalizeRoom": false,
+    "IsDeveloperOwned": false,
+    "RankedEntityId": "",
+    "Name": "PerformanceHall",
+    "Description": "A theater for plays, music, comedy and other performances.",
+    "ImageName": "PerformanceHall",
+    "WarningMask": 0,
+    "CustomWarning": "",
+    "CreatorAccountId": 1,
+    "State": 0,
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "IsRRO": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsQuest2": true,
+    "SupportsMobile": true,
+    "SupportsJuniors": true,
+    "MinLevel": 0,
+    "CreatedAt": "2024-03-06T06:09:31.2251338",
+    "Stats": {
+      "CheerCount": 0,
+      "FavoriteCount": 0,
+      "VisitorCount": 0,
+      "VisitCount": 0
+    },
+    "RankingContext": 0,
+    "SubRooms": [
+      {
+        "SubRoomId": 243,
+        "RoomId": 167,
+        "Name": "Home",
+        "DataBlob": "",
+        "IsSandbox": true,
+        "MaxPlayers": 12,
+        "Accessibility": 1,
+        "UnitySceneId": "9932f88f-3929-43a0-a012-a40b5128e346",
+        "SavedByAccountId": -1
+      }
+    ],
+    "Roles": [
+      {
+        "AccountId": 1,
+        "Role": 255,
+        "InvitedRole": 0
+      }
+    ],
+    "DataBlob": null,
+    "UgcVersion": 1,
+    "Tags": [
+      {
+        "Tag": "base",
+        "Type": 0
+      }
+    ],
+    "PromoImages": [],
+    "PromoExternalContent": [],
+    "LoadScreens": []
+  },
+  {
+    "RoomId": 168,
+    "IsDorm": false,
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 10,
+    "CloningAllowed": true,
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ToxmodEnabled": false,
+    "LoadScreenLocked": false,
+    "PersistenceVersion": 1,
+    "AutoLocalizeRoom": false,
+    "IsDeveloperOwned": false,
+    "RankedEntityId": "",
+    "Name": "River",
+    "Description": "The original outdoor paintball course. Simple, balanced, classic.",
+    "ImageName": "Paintball",
+    "WarningMask": 0,
+    "CustomWarning": "",
+    "CreatorAccountId": 1,
+    "State": 0,
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "IsRRO": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsQuest2": true,
+    "SupportsMobile": true,
+    "SupportsJuniors": true,
+    "MinLevel": 0,
+    "CreatedAt": "2024-03-06T06:09:31.5511392",
+    "Stats": {
+      "CheerCount": 0,
+      "FavoriteCount": 0,
+      "VisitorCount": 0,
+      "VisitCount": 0
+    },
+    "RankingContext": 0,
+    "SubRooms": [
+      {
+        "SubRoomId": 244,
+        "RoomId": 168,
+        "Name": "Home",
+        "DataBlob": "",
+        "IsSandbox": true,
+        "MaxPlayers": 12,
+        "Accessibility": 1,
+        "UnitySceneId": "e122fe98-e7db-49e8-a1b1-105424b6e1f0",
+        "SavedByAccountId": -1
+      }
+    ],
+    "Roles": [
+      {
+        "AccountId": 1,
+        "Role": 255,
+        "InvitedRole": 0
+      }
+    ],
+    "DataBlob": null,
+    "UgcVersion": 1,
+    "Tags": [
+      {
+        "Tag": "base",
+        "Type": 0
+      }
+    ],
+    "PromoImages": [],
+    "PromoExternalContent": [],
+    "LoadScreens": []
+  },
+  {
+    "RoomId": 169,
+    "IsDorm": false,
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 10,
+    "CloningAllowed": true,
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ToxmodEnabled": false,
+    "LoadScreenLocked": false,
+    "PersistenceVersion": 1,
+    "AutoLocalizeRoom": false,
+    "IsDeveloperOwned": false,
+    "RankedEntityId": "",
+    "Name": "Homestead",
+    "Description": "A day on the farm. Great for asymmetrical battles!",
+    "ImageName": "Homestead",
+    "WarningMask": 0,
+    "CustomWarning": "",
+    "CreatorAccountId": 1,
+    "State": 0,
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "IsRRO": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsQuest2": true,
+    "SupportsMobile": true,
+    "SupportsJuniors": true,
+    "MinLevel": 0,
+    "CreatedAt": "2024-03-06T06:09:31.6881529",
+    "Stats": {
+      "CheerCount": 0,
+      "FavoriteCount": 0,
+      "VisitorCount": 0,
+      "VisitCount": 0
+    },
+    "RankingContext": 0,
+    "SubRooms": [
+      {
+        "SubRoomId": 245,
+        "RoomId": 169,
+        "Name": "Home",
+        "DataBlob": "",
+        "IsSandbox": true,
+        "MaxPlayers": 12,
+        "Accessibility": 1,
+        "UnitySceneId": "a785267d-c579-42ea-be43-fec1992d1ca7",
+        "SavedByAccountId": -1
+      }
+    ],
+    "Roles": [
+      {
+        "AccountId": 1,
+        "Role": 255,
+        "InvitedRole": 0
+      }
+    ],
+    "DataBlob": null,
+    "UgcVersion": 1,
+    "Tags": [
+      {
+        "Tag": "base",
+        "Type": 0
+      }
+    ],
+    "PromoImages": [],
+    "PromoExternalContent": [],
+    "LoadScreens": []
+  },
+  {
+    "RoomId": 170,
+    "IsDorm": false,
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 10,
+    "CloningAllowed": true,
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ToxmodEnabled": false,
+    "LoadScreenLocked": false,
+    "PersistenceVersion": 1,
+    "AutoLocalizeRoom": false,
+    "IsDeveloperOwned": false,
+    "RankedEntityId": "",
+    "Name": "Quarry",
+    "Description": "The sun sets on this construction site in the desert. Great for sniping battles!",
+    "ImageName": "Quarry",
+    "WarningMask": 0,
+    "CustomWarning": "",
+    "CreatorAccountId": 1,
+    "State": 0,
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "IsRRO": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsQuest2": true,
+    "SupportsMobile": true,
+    "SupportsJuniors": true,
+    "MinLevel": 0,
+    "CreatedAt": "2024-03-06T06:09:31.8362057",
+    "Stats": {
+      "CheerCount": 0,
+      "FavoriteCount": 1,
+      "VisitorCount": 0,
+      "VisitCount": 3
+    },
+    "RankingContext": 0,
+    "SubRooms": [
+      {
+        "SubRoomId": 246,
+        "RoomId": 170,
+        "Name": "Home",
+        "DataBlob": "",
+        "IsSandbox": true,
+        "MaxPlayers": 12,
+        "Accessibility": 1,
+        "UnitySceneId": "ff4c6427-7079-4f59-b22a-69b089420827",
+        "SavedByAccountId": -1
+      }
+    ],
+    "Roles": [
+      {
+        "AccountId": 1,
+        "Role": 255,
+        "InvitedRole": 0
+      }
+    ],
+    "DataBlob": null,
+    "UgcVersion": 1,
+    "Tags": [
+      {
+        "Tag": "base",
+        "Type": 0
+      }
+    ],
+    "PromoImages": [],
+    "PromoExternalContent": [],
+    "LoadScreens": []
+  },
+  {
+    "RoomId": 171,
+    "IsDorm": false,
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 10,
+    "CloningAllowed": true,
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ToxmodEnabled": false,
+    "LoadScreenLocked": false,
+    "PersistenceVersion": 1,
+    "AutoLocalizeRoom": false,
+    "IsDeveloperOwned": false,
+    "RankedEntityId": "",
+    "Name": "Clearcut",
+    "Description": "The sun rises on this logging camp in the forest. Great for mid-range splatting!",
+    "ImageName": "Clearcut",
+    "WarningMask": 0,
+    "CustomWarning": "",
+    "CreatorAccountId": 1,
+    "State": 0,
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "IsRRO": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsQuest2": true,
+    "SupportsMobile": true,
+    "SupportsJuniors": true,
+    "MinLevel": 0,
+    "CreatedAt": "2024-03-06T06:09:31.9738652",
+    "Stats": {
+      "CheerCount": 0,
+      "FavoriteCount": 0,
+      "VisitorCount": 0,
+      "VisitCount": 2
+    },
+    "RankingContext": 0,
+    "SubRooms": [
+      {
+        "SubRoomId": 247,
+        "RoomId": 171,
+        "Name": "Home",
+        "DataBlob": "",
+        "IsSandbox": true,
+        "MaxPlayers": 12,
+        "Accessibility": 1,
+        "UnitySceneId": "380d18b5-de9c-49f3-80f7-f4a95c1de161",
+        "SavedByAccountId": -1
+      }
+    ],
+    "Roles": [
+      {
+        "AccountId": 1,
+        "Role": 255,
+        "InvitedRole": 0
+      }
+    ],
+    "DataBlob": null,
+    "UgcVersion": 1,
+    "Tags": [
+      {
+        "Tag": "base",
+        "Type": 0
+      }
+    ],
+    "PromoImages": [],
+    "PromoExternalContent": [],
+    "LoadScreens": []
+  },
+  {
+    "RoomId": 172,
+    "IsDorm": false,
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 10,
+    "CloningAllowed": true,
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ToxmodEnabled": false,
+    "LoadScreenLocked": false,
+    "PersistenceVersion": 1,
+    "AutoLocalizeRoom": false,
+    "IsDeveloperOwned": false,
+    "RankedEntityId": "",
+    "Name": "Spillway",
+    "Description": "Night shift at the hydroelectric plant. Great for stealthy splatting!",
+    "ImageName": "Spillway",
+    "WarningMask": 0,
+    "CustomWarning": "",
+    "CreatorAccountId": 1,
+    "State": 0,
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "IsRRO": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsQuest2": true,
+    "SupportsMobile": true,
+    "SupportsJuniors": true,
+    "MinLevel": 0,
+    "CreatedAt": "2024-03-06T06:09:32.1118204",
+    "Stats": {
+      "CheerCount": 0,
+      "FavoriteCount": 0,
+      "VisitorCount": 0,
+      "VisitCount": 0
+    },
+    "RankingContext": 0,
+    "SubRooms": [
+      {
+        "SubRoomId": 248,
+        "RoomId": 172,
+        "Name": "Home",
+        "DataBlob": "",
+        "IsSandbox": true,
+        "MaxPlayers": 12,
+        "Accessibility": 1,
+        "UnitySceneId": "58763055-2dfb-4814-80b8-16fac5c85709",
+        "SavedByAccountId": -1
+      }
+    ],
+    "Roles": [
+      {
+        "AccountId": 1,
+        "Role": 255,
+        "InvitedRole": 0
+      }
+    ],
+    "DataBlob": null,
+    "UgcVersion": 1,
+    "Tags": [
+      {
+        "Tag": "base",
+        "Type": 0
+      }
+    ],
+    "PromoImages": [],
+    "PromoExternalContent": [],
+    "LoadScreens": []
+  },
+  {
+    "RoomId": 173,
+    "IsDorm": false,
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 10,
+    "CloningAllowed": true,
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ToxmodEnabled": false,
+    "LoadScreenLocked": false,
+    "PersistenceVersion": 1,
+    "AutoLocalizeRoom": false,
+    "IsDeveloperOwned": false,
+    "RankedEntityId": "",
+    "Name": "Lake",
+    "Description": "A leisurely trail to the lake and beyond.",
+    "ImageName": "Lake",
+    "WarningMask": 0,
+    "CustomWarning": "",
+    "CreatorAccountId": 1,
+    "State": 0,
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "IsRRO": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsQuest2": true,
+    "SupportsMobile": true,
+    "SupportsJuniors": true,
+    "MinLevel": 0,
+    "CreatedAt": "2024-03-06T06:09:32.2489315",
+    "Stats": {
+      "CheerCount": 0,
+      "FavoriteCount": 0,
+      "VisitorCount": 0,
+      "VisitCount": 0
+    },
+    "RankingContext": 0,
+    "SubRooms": [
+      {
+        "SubRoomId": 249,
+        "RoomId": 173,
+        "Name": "Home",
+        "DataBlob": "",
+        "IsSandbox": true,
+        "MaxPlayers": 12,
+        "Accessibility": 1,
+        "UnitySceneId": "f6f7256c-e438-4299-b99e-d20bef8cf7e0",
+        "SavedByAccountId": -1
+      }
+    ],
+    "Roles": [
+      {
+        "AccountId": 1,
+        "Role": 255,
+        "InvitedRole": 0
+      }
+    ],
+    "DataBlob": null,
+    "UgcVersion": 1,
+    "Tags": [
+      {
+        "Tag": "base",
+        "Type": 0
+      }
+    ],
+    "PromoImages": [],
+    "PromoExternalContent": [],
+    "LoadScreens": []
+  },
+  {
+    "RoomId": 174,
+    "IsDorm": false,
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 10,
+    "CloningAllowed": true,
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ToxmodEnabled": false,
+    "LoadScreenLocked": false,
+    "PersistenceVersion": 1,
+    "AutoLocalizeRoom": false,
+    "IsDeveloperOwned": false,
+    "RankedEntityId": "",
+    "Name": "PropulsionTestRange",
+    "Description": "The science department left some of their equipment laying around. What will you do with it?",
+    "ImageName": "PropulsionTestRange",
+    "WarningMask": 0,
+    "CustomWarning": "",
+    "CreatorAccountId": 1,
+    "State": 0,
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "IsRRO": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsQuest2": true,
+    "SupportsMobile": true,
+    "SupportsJuniors": true,
+    "MinLevel": 0,
+    "CreatedAt": "2024-03-06T06:09:32.3970143",
+    "Stats": {
+      "CheerCount": 0,
+      "FavoriteCount": 0,
+      "VisitorCount": 0,
+      "VisitCount": 0
+    },
+    "RankingContext": 0,
+    "SubRooms": [
+      {
+        "SubRoomId": 250,
+        "RoomId": 174,
+        "Name": "Home",
+        "DataBlob": "",
+        "IsSandbox": true,
+        "MaxPlayers": 12,
+        "Accessibility": 1,
+        "UnitySceneId": "d9378c9f-80bc-46fb-ad1e-1bed8a674f55",
+        "SavedByAccountId": -1
+      }
+    ],
+    "Roles": [
+      {
+        "AccountId": 1,
+        "Role": 255,
+        "InvitedRole": 0
+      }
+    ],
+    "DataBlob": null,
+    "UgcVersion": 1,
+    "Tags": [
+      {
+        "Tag": "base",
+        "Type": 0
+      }
+    ],
+    "PromoImages": [],
+    "PromoExternalContent": [],
+    "LoadScreens": []
+  },
+  {
+    "RoomId": 175,
+    "IsDorm": false,
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 10,
+    "CloningAllowed": true,
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ToxmodEnabled": false,
+    "LoadScreenLocked": false,
+    "PersistenceVersion": 1,
+    "AutoLocalizeRoom": false,
+    "IsDeveloperOwned": false,
+    "RankedEntityId": "",
+    "Name": "Gym",
+    "Description": "A school gymnasium for smaller sporting events.",
+    "ImageName": "Gym",
+    "WarningMask": 0,
+    "CustomWarning": "",
+    "CreatorAccountId": 1,
+    "State": 0,
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "IsRRO": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsQuest2": true,
+    "SupportsMobile": true,
+    "SupportsJuniors": true,
+    "MinLevel": 0,
+    "CreatedAt": "2024-03-06T06:09:33.0294732",
+    "Stats": {
+      "CheerCount": 0,
+      "FavoriteCount": 0,
+      "VisitorCount": 0,
+      "VisitCount": 2
+    },
+    "RankingContext": 0,
+    "SubRooms": [
+      {
+        "SubRoomId": 251,
+        "RoomId": 175,
+        "Name": "Home",
+        "DataBlob": "",
+        "IsSandbox": true,
+        "MaxPlayers": 12,
+        "Accessibility": 1,
+        "UnitySceneId": "3d474b26-26f7-45e9-9a36-9b02847d5e6f",
+        "SavedByAccountId": -1
+      }
+    ],
+    "Roles": [
+      {
+        "AccountId": 1,
+        "Role": 255,
+        "InvitedRole": 0
+      }
+    ],
+    "DataBlob": null,
+    "UgcVersion": 1,
+    "Tags": [
+      {
+        "Tag": "base",
+        "Type": 0
+      }
+    ],
+    "PromoImages": [],
+    "PromoExternalContent": [],
+    "LoadScreens": []
+  },
+  {
+    "RoomId": 176,
+    "IsDorm": false,
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 10,
+    "CloningAllowed": true,
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ToxmodEnabled": false,
+    "LoadScreenLocked": false,
+    "PersistenceVersion": 1,
+    "AutoLocalizeRoom": false,
+    "IsDeveloperOwned": false,
+    "RankedEntityId": "",
+    "Name": "Stadium",
+    "Description": "A professional stadium for larger sporting events.",
+    "ImageName": "Soccer",
+    "WarningMask": 0,
+    "CustomWarning": "",
+    "CreatorAccountId": 1,
+    "State": 0,
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "IsRRO": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsQuest2": true,
+    "SupportsMobile": true,
+    "SupportsJuniors": true,
+    "MinLevel": 0,
+    "CreatedAt": "2024-03-06T06:09:33.7719586",
+    "Stats": {
+      "CheerCount": 0,
+      "FavoriteCount": 0,
+      "VisitorCount": 0,
+      "VisitCount": 2
+    },
+    "RankingContext": 0,
+    "SubRooms": [
+      {
+        "SubRoomId": 252,
+        "RoomId": 176,
+        "Name": "Home",
+        "DataBlob": "",
+        "IsSandbox": true,
+        "MaxPlayers": 12,
+        "Accessibility": 1,
+        "UnitySceneId": "6d5eea4b-f069-4ed0-9916-0e2f07df0d03",
+        "SavedByAccountId": -1
+      }
+    ],
+    "Roles": [
+      {
+        "AccountId": 1,
+        "Role": 255,
+        "InvitedRole": 0
+      }
+    ],
+    "DataBlob": null,
+    "UgcVersion": 1,
+    "Tags": [
+      {
+        "Tag": "base",
+        "Type": 0
+      }
+    ],
+    "PromoImages": [],
+    "PromoExternalContent": [],
+    "LoadScreens": []
+  },
+  {
+    "RoomId": 177,
+    "IsDorm": false,
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 10,
+    "CloningAllowed": true,
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ToxmodEnabled": false,
+    "LoadScreenLocked": false,
+    "PersistenceVersion": 1,
+    "AutoLocalizeRoom": false,
+    "IsDeveloperOwned": false,
+    "RankedEntityId": "",
+    "Name": "Hangar",
+    "Description": "A late-eighties-style laser tag battle arcade.",
+    "ImageName": "LaserTag",
+    "WarningMask": 0,
+    "CustomWarning": "",
+    "CreatorAccountId": 1,
+    "State": 0,
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "IsRRO": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsQuest2": true,
+    "SupportsMobile": true,
+    "SupportsJuniors": true,
+    "MinLevel": 0,
+    "CreatedAt": "2024-03-06T06:09:33.9268779",
+    "Stats": {
+      "CheerCount": 0,
+      "FavoriteCount": 0,
+      "VisitorCount": 0,
+      "VisitCount": 0
+    },
+    "RankingContext": 0,
+    "SubRooms": [
+      {
+        "SubRoomId": 253,
+        "RoomId": 177,
+        "Name": "Home",
+        "DataBlob": "",
+        "IsSandbox": true,
+        "MaxPlayers": 12,
+        "Accessibility": 1,
+        "UnitySceneId": "239e676c-f12f-489f-bf3a-d4c383d692c3",
+        "SavedByAccountId": -1
+      }
+    ],
+    "Roles": [
+      {
+        "AccountId": 1,
+        "Role": 255,
+        "InvitedRole": 0
+      }
+    ],
+    "DataBlob": null,
+    "UgcVersion": 1,
+    "Tags": [
+      {
+        "Tag": "base",
+        "Type": 0
+      }
+    ],
+    "PromoImages": [],
+    "PromoExternalContent": [],
+    "LoadScreens": []
+  },
+  {
+    "RoomId": 178,
+    "IsDorm": false,
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 10,
+    "CloningAllowed": true,
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ToxmodEnabled": false,
+    "LoadScreenLocked": false,
+    "PersistenceVersion": 1,
+    "AutoLocalizeRoom": false,
+    "IsDeveloperOwned": false,
+    "RankedEntityId": "",
+    "Name": "CyberJunkCity",
+    "Description": "A late-2080s-style cyberpunk dystopian laser tag battle arcade",
+    "ImageName": "CyberJunkCity",
+    "WarningMask": 0,
+    "CustomWarning": "",
+    "CreatorAccountId": 1,
+    "State": 0,
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "IsRRO": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsQuest2": true,
+    "SupportsMobile": true,
+    "SupportsJuniors": true,
+    "MinLevel": 0,
+    "CreatedAt": "2024-03-06T06:09:34.0891093",
+    "Stats": {
+      "CheerCount": 0,
+      "FavoriteCount": 0,
+      "VisitorCount": 0,
+      "VisitCount": 1
+    },
+    "RankingContext": 0,
+    "SubRooms": [
+      {
+        "SubRoomId": 254,
+        "RoomId": 178,
+        "Name": "Home",
+        "DataBlob": "",
+        "IsSandbox": true,
+        "MaxPlayers": 12,
+        "Accessibility": 1,
+        "UnitySceneId": "9d6456ce-6264-48b4-808d-2d96b3d91038",
+        "SavedByAccountId": -1
+      }
+    ],
+    "Roles": [
+      {
+        "AccountId": 1,
+        "Role": 255,
+        "InvitedRole": 0
+      }
+    ],
+    "DataBlob": null,
+    "UgcVersion": 1,
+    "Tags": [
+      {
+        "Tag": "base",
+        "Type": 0
+      }
+    ],
+    "PromoImages": [],
+    "PromoExternalContent": [],
+    "LoadScreens": []
+  },
+  {
+    "RoomId": 179,
+    "IsDorm": false,
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 10,
+    "CloningAllowed": true,
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ToxmodEnabled": false,
+    "LoadScreenLocked": false,
+    "PersistenceVersion": 1,
+    "AutoLocalizeRoom": false,
+    "IsDeveloperOwned": false,
+    "RankedEntityId": "",
+    "Name": "BowlingAlley",
+    "Description": "Lone Shoe Lanes is the hottest hangout in town.",
+    "ImageName": "Bowling",
+    "WarningMask": 0,
+    "CustomWarning": "",
+    "CreatorAccountId": 1,
+    "State": 0,
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "IsRRO": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsQuest2": true,
+    "SupportsMobile": true,
+    "SupportsJuniors": true,
+    "MinLevel": 0,
+    "CreatedAt": "2024-03-06T06:09:34.2505933",
+    "Stats": {
+      "CheerCount": 1,
+      "FavoriteCount": 1,
+      "VisitorCount": 0,
+      "VisitCount": 0
+    },
+    "RankingContext": 0,
+    "SubRooms": [
+      {
+        "SubRoomId": 255,
+        "RoomId": 179,
+        "Name": "Home",
+        "DataBlob": "",
+        "IsSandbox": true,
+        "MaxPlayers": 8,
+        "Accessibility": 1,
+        "UnitySceneId": "ae929543-9a07-41d5-8ee9-dbbee8c36800",
+        "SavedByAccountId": -1
+      }
+    ],
+    "Roles": [
+      {
+        "AccountId": 1,
+        "Role": 255,
+        "InvitedRole": 0
+      }
+    ],
+    "DataBlob": null,
+    "UgcVersion": 1,
+    "Tags": [
+      {
+        "Tag": "base",
+        "Type": 0
+      }
+    ],
+    "PromoImages": [],
+    "PromoExternalContent": [],
+    "LoadScreens": []
+  },
+  {
+    "RoomId": 183,
+    "IsDorm": false,
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 10,
+    "CloningAllowed": true,
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ToxmodEnabled": false,
+    "LoadScreenLocked": false,
+    "PersistenceVersion": 1,
+    "AutoLocalizeRoom": false,
+    "IsDeveloperOwned": false,
+    "RankedEntityId": "",
+    "Name": "StuntRunnerBaseRoom",
+    "Description": "A soundstage warehouse used to film Stunt Runner and other RecTV shows.",
+    "ImageName": "ImageData5524425402175941303",
+    "WarningMask": 0,
+    "CustomWarning": "",
+    "CreatorAccountId": 1,
+    "State": 0,
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "IsRRO": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsQuest2": true,
+    "SupportsMobile": true,
+    "SupportsJuniors": true,
+    "MinLevel": 0,
+    "CreatedAt": "2024-03-06T06:09:34.926523",
+    "Stats": {
+      "CheerCount": 0,
+      "FavoriteCount": 0,
+      "VisitorCount": 0,
+      "VisitCount": 1
+    },
+    "RankingContext": 0,
+    "SubRooms": [
+      {
+        "SubRoomId": 259,
+        "RoomId": 183,
+        "Name": "Home",
+        "DataBlob": "",
+        "IsSandbox": true,
+        "MaxPlayers": 12,
+        "Accessibility": 1,
+        "UnitySceneId": "882e9b96-7115-4b03-86f6-c0c9d8e22e00",
+        "SavedByAccountId": -1
+      }
+    ],
+    "Roles": [
+      {
+        "AccountId": 1,
+        "Role": 255,
+        "InvitedRole": 0
+      }
+    ],
+    "DataBlob": null,
+    "UgcVersion": 1,
+    "Tags": [
+      {
+        "Tag": "base",
+        "Type": 0
+      }
+    ],
+    "PromoImages": [],
+    "PromoExternalContent": [],
+    "LoadScreens": []
+  },
+  {
+    "RoomId": 3978,
+    "IsDorm": false,
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 10,
+    "CloningAllowed": false,
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ToxmodEnabled": false,
+    "LoadScreenLocked": false,
+    "PersistenceVersion": 1,
+    "AutoLocalizeRoom": false,
+    "IsDeveloperOwned": false,
+    "RankedEntityId": "",
+    "Name": "StuntRunnerUGC",
+    "Description": "Sprint, climb, and wall jump in this high-speed obstacle course where every second counts!",
+    "ImageName": "StuntRunner",
+    "WarningMask": 0,
+    "CustomWarning": "",
+    "CreatorAccountId": 1,
+    "State": 0,
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "IsRRO": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": false,
+    "SupportsVRLow": true,
+    "SupportsQuest2": true,
+    "SupportsMobile": true,
+    "SupportsJuniors": true,
+    "MinLevel": 0,
+    "CreatedAt": "2024-09-09T22:28:09.7732136",
+    "Stats": {
+      "CheerCount": 0,
+      "FavoriteCount": 1,
+      "VisitorCount": 0,
+      "VisitCount": 3
+    },
+    "RankingContext": 0,
+    "SubRooms": [
+      {
+        "SubRoomId": 6115,
+        "RoomId": 3978,
+        "Name": "StuntRunner",
+        "DataBlob": "",
+        "IsSandbox": false,
+        "MaxPlayers": 12,
+        "Accessibility": 1,
+        "UnitySceneId": "b7281665-a715-4051-826b-8e08e69c6172",
+        "SavedByAccountId": -1
+      },
+      {
+        "SubRoomId": 6116,
+        "RoomId": 3978,
+        "Name": "TheMainEvent",
+        "DataBlob": "",
+        "IsSandbox": false,
+        "MaxPlayers": 4,
+        "Accessibility": 2,
+        "UnitySceneId": "3a636bd2-f896-424c-9225-c184522c0d87",
+        "SavedByAccountId": -1
+      }
+    ],
+    "Roles": [
+      {
+        "AccountId": 1,
+        "Role": 255,
+        "InvitedRole": 0
+      }
+    ],
+    "DataBlob": null,
+    "UgcVersion": 1,
+    "Tags": [
+      {
+        "Tag": "base",
+        "Type": 0
+      }
+    ],
+    "PromoImages": [],
+    "PromoExternalContent": [],
+    "LoadScreens": []
+  },
+  {
+    "RoomId": 7896,
+    "IsDorm": false,
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 10,
+    "CloningAllowed": true,
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ToxmodEnabled": false,
+    "LoadScreenLocked": false,
+    "PersistenceVersion": 1,
+    "AutoLocalizeRoom": false,
+    "IsDeveloperOwned": false,
+    "RankedEntityId": "",
+    "Name": "RecWestern",
+    "Description": "Thank you @Depressed_Apple, and @Noctauto for the help!",
+    "ImageName": "RecWestern",
+    "WarningMask": 0,
+    "CustomWarning": "",
+    "CreatorAccountId": 3,
+    "State": 0,
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "IsRRO": false,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsQuest2": true,
+    "SupportsMobile": true,
+    "SupportsJuniors": true,
+    "MinLevel": 0,
+    "CreatedAt": "2025-10-03T04:46:33.996476",
+    "Stats": {
+      "CheerCount": 0,
+      "FavoriteCount": 0,
+      "VisitorCount": 0,
+      "VisitCount": 0
+    },
+    "RankingContext": 0,
+    "SubRooms": [
+      {
+        "SubRoomId": 10423,
+        "RoomId": 7896,
+        "Name": "Home",
+        "DataBlob": "RecWestern.room",
+        "IsSandbox": true,
+        "MaxPlayers": 20,
+        "Accessibility": 1,
+        "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "SavedByAccountId": -1
+      }
+    ],
+    "Roles": [
+      {
+        "AccountId": 3,
+        "Role": 255,
+        "InvitedRole": 0
+      }
+    ],
+    "DataBlob": null,
+    "UgcVersion": 1,
+    "Tags": [
+      {
+        "Tag": "base",
+        "Type": 0
+      }
+    ],
+    "PromoImages": [],
+    "PromoExternalContent": [],
+    "LoadScreens": []
+  },
+  {
+    "RoomId": 7897,
+    "IsDorm": false,
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 10,
+    "CloningAllowed": true,
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ToxmodEnabled": false,
+    "LoadScreenLocked": false,
+    "PersistenceVersion": 1,
+    "AutoLocalizeRoom": false,
+    "IsDeveloperOwned": false,
+    "RankedEntityId": "",
+    "Name": "YoutubeTemplate",
+    "Description": "Put together your own theme, hang out with your community, celebrate your goals, give out prizes, put on your own talk shows, and hang out with your fans! Make it into whatever you like!",
+    "ImageName": "YoutubeTemplate",
+    "WarningMask": 0,
+    "CustomWarning": "",
+    "CreatorAccountId": 3,
+    "State": 0,
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "IsRRO": false,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsQuest2": true,
+    "SupportsMobile": true,
+    "SupportsJuniors": true,
+    "MinLevel": 0,
+    "CreatedAt": "2025-10-03T04:46:39.1166013",
+    "Stats": {
+      "CheerCount": 0,
+      "FavoriteCount": 0,
+      "VisitorCount": 0,
+      "VisitCount": 1
+    },
+    "RankingContext": 0,
+    "SubRooms": [
+      {
+        "SubRoomId": 10424,
+        "RoomId": 7897,
+        "Name": "Home",
+        "DataBlob": "YouTubeTemplate.room",
+        "IsSandbox": true,
+        "MaxPlayers": 40,
+        "Accessibility": 1,
+        "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "SavedByAccountId": -1
+      }
+    ],
+    "Roles": [
+      {
+        "AccountId": 3,
+        "Role": 255,
+        "InvitedRole": 0
+      }
+    ],
+    "DataBlob": null,
+    "UgcVersion": 1,
+    "Tags": [
+      {
+        "Tag": "base",
+        "Type": 0
+      }
+    ],
+    "PromoImages": [],
+    "PromoExternalContent": [],
+    "LoadScreens": []
+  },
+  {
+    "RoomId": 7898,
+    "IsDorm": false,
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 10,
+    "CloningAllowed": true,
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ToxmodEnabled": false,
+    "LoadScreenLocked": false,
+    "PersistenceVersion": 1,
+    "AutoLocalizeRoom": false,
+    "IsDeveloperOwned": false,
+    "RankedEntityId": "",
+    "Name": "CostumesTemplate",
+    "Description": "This is a great template if you are looking to create a costume, host an event, put on a show, or just hang out with your friends!",
+    "ImageName": "CostumesTemplate",
+    "WarningMask": 0,
+    "CustomWarning": "",
+    "CreatorAccountId": 3,
+    "State": 0,
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "IsRRO": false,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsQuest2": true,
+    "SupportsMobile": true,
+    "SupportsJuniors": true,
+    "MinLevel": 0,
+    "CreatedAt": "2025-10-03T04:46:39.7361119",
+    "Stats": {
+      "CheerCount": 0,
+      "FavoriteCount": 0,
+      "VisitorCount": 0,
+      "VisitCount": 0
+    },
+    "RankingContext": 0,
+    "SubRooms": [
+      {
+        "SubRoomId": 10425,
+        "RoomId": 7898,
+        "Name": "Home",
+        "DataBlob": "CostumesTemplate.room",
+        "IsSandbox": true,
+        "MaxPlayers": 20,
+        "Accessibility": 1,
+        "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "SavedByAccountId": -1
+      }
+    ],
+    "Roles": [
+      {
+        "AccountId": 3,
+        "Role": 255,
+        "InvitedRole": 0
+      }
+    ],
+    "DataBlob": null,
+    "UgcVersion": 1,
+    "Tags": [
+      {
+        "Tag": "base",
+        "Type": 0
+      }
+    ],
+    "PromoImages": [],
+    "PromoExternalContent": [],
+    "LoadScreens": []
+  },
+  {
+    "RoomId": 7899,
+    "IsDorm": false,
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 10,
+    "CloningAllowed": true,
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ToxmodEnabled": false,
+    "LoadScreenLocked": false,
+    "PersistenceVersion": 1,
+    "AutoLocalizeRoom": false,
+    "IsDeveloperOwned": false,
+    "RankedEntityId": "",
+    "Name": "StuntTemplate",
+    "Description": "Use this template to create your very own Stunt Runner course! Includes everything you need to get started!",
+    "ImageName": "StuntTemplate",
+    "WarningMask": 0,
+    "CustomWarning": "",
+    "CreatorAccountId": 3,
+    "State": 0,
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "IsRRO": false,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsQuest2": true,
+    "SupportsMobile": true,
+    "SupportsJuniors": true,
+    "MinLevel": 0,
+    "CreatedAt": "2025-10-03T04:46:40.2120022",
+    "Stats": {
+      "CheerCount": 0,
+      "FavoriteCount": 0,
+      "VisitorCount": 0,
+      "VisitCount": 0
+    },
+    "RankingContext": 0,
+    "SubRooms": [
+      {
+        "SubRoomId": 10426,
+        "RoomId": 7899,
+        "Name": "Home",
+        "DataBlob": "StuntTemplate.room",
+        "IsSandbox": true,
+        "MaxPlayers": 4,
+        "Accessibility": 1,
+        "UnitySceneId": "882e9b96-7115-4b03-86f6-c0c9d8e22e00",
+        "SavedByAccountId": -1
+      }
+    ],
+    "Roles": [
+      {
+        "AccountId": 3,
+        "Role": 255,
+        "InvitedRole": 0
+      }
+    ],
+    "DataBlob": null,
+    "UgcVersion": 1,
+    "Tags": [
+      {
+        "Tag": "base",
+        "Type": 0
+      }
+    ],
+    "PromoImages": [],
+    "PromoExternalContent": [],
+    "LoadScreens": []
+  },
+  {
+    "RoomId": 7900,
+    "IsDorm": false,
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 10,
+    "CloningAllowed": true,
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ToxmodEnabled": false,
+    "LoadScreenLocked": false,
+    "PersistenceVersion": 1,
+    "AutoLocalizeRoom": false,
+    "IsDeveloperOwned": false,
+    "RankedEntityId": "",
+    "Name": "SkiLodgeTemplate",
+    "Description": "This is a template! Hangout with your friends and create your own ski slopes!",
+    "ImageName": "SkiLodgeTemplate",
+    "WarningMask": 0,
+    "CustomWarning": "",
+    "CreatorAccountId": 3,
+    "State": 0,
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "IsRRO": false,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsQuest2": true,
+    "SupportsMobile": true,
+    "SupportsJuniors": true,
+    "MinLevel": 0,
+    "CreatedAt": "2025-10-03T04:46:40.8187468",
+    "Stats": {
+      "CheerCount": 0,
+      "FavoriteCount": 0,
+      "VisitorCount": 0,
+      "VisitCount": 0
+    },
+    "RankingContext": 0,
+    "SubRooms": [
+      {
+        "SubRoomId": 10427,
+        "RoomId": 7900,
+        "Name": "Home",
+        "DataBlob": "SkiLodgeTemplate.room",
+        "IsSandbox": true,
+        "MaxPlayers": 20,
+        "Accessibility": 1,
+        "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "SavedByAccountId": -1
+      }
+    ],
+    "Roles": [
+      {
+        "AccountId": 3,
+        "Role": 255,
+        "InvitedRole": 0
+      }
+    ],
+    "DataBlob": null,
+    "UgcVersion": 1,
+    "Tags": [
+      {
+        "Tag": "base",
+        "Type": 0
+      }
+    ],
+    "PromoImages": [],
+    "PromoExternalContent": [],
+    "LoadScreens": []
+  },
+  {
+    "RoomId": 7901,
+    "IsDorm": false,
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 10,
+    "CloningAllowed": true,
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ToxmodEnabled": false,
+    "LoadScreenLocked": false,
+    "PersistenceVersion": 1,
+    "AutoLocalizeRoom": false,
+    "IsDeveloperOwned": false,
+    "RankedEntityId": "",
+    "Name": "OutdoorMeeting",
+    "Description": "This template is perfect for meetings, classes, or just hanging out. The room contains several outdoor meeting areas that are easily customizable.",
+    "ImageName": "OutdoorMeeting",
+    "WarningMask": 0,
+    "CustomWarning": "",
+    "CreatorAccountId": 3,
+    "State": 0,
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "IsRRO": false,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsQuest2": true,
+    "SupportsMobile": true,
+    "SupportsJuniors": true,
+    "MinLevel": 0,
+    "CreatedAt": "2025-10-03T04:46:41.6173846",
+    "Stats": {
+      "CheerCount": 0,
+      "FavoriteCount": 0,
+      "VisitorCount": 0,
+      "VisitCount": 0
+    },
+    "RankingContext": 0,
+    "SubRooms": [
+      {
+        "SubRoomId": 10428,
+        "RoomId": 7901,
+        "Name": "Home",
+        "DataBlob": "OutdoorMeeting.room",
+        "IsSandbox": true,
+        "MaxPlayers": 20,
+        "Accessibility": 1,
+        "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "SavedByAccountId": -1
+      }
+    ],
+    "Roles": [
+      {
+        "AccountId": 3,
+        "Role": 255,
+        "InvitedRole": 0
+      }
+    ],
+    "DataBlob": null,
+    "UgcVersion": 1,
+    "Tags": [
+      {
+        "Tag": "base",
+        "Type": 0
+      }
+    ],
+    "PromoImages": [],
+    "PromoExternalContent": [],
+    "LoadScreens": []
+  },
+  {
+    "RoomId": 7902,
+    "IsDorm": false,
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 10,
+    "CloningAllowed": true,
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ToxmodEnabled": false,
+    "LoadScreenLocked": false,
+    "PersistenceVersion": 1,
+    "AutoLocalizeRoom": false,
+    "IsDeveloperOwned": false,
+    "RankedEntityId": "",
+    "Name": "BirthdayTemplate",
+    "Description": "This template is perfect for birthdays, parties and celebrations. Customize the venue however you like.",
+    "ImageName": "BirthdayTemplate",
+    "WarningMask": 0,
+    "CustomWarning": "",
+    "CreatorAccountId": 3,
+    "State": 0,
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "IsRRO": false,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsQuest2": true,
+    "SupportsMobile": true,
+    "SupportsJuniors": true,
+    "MinLevel": 0,
+    "CreatedAt": "2025-10-03T04:46:42.1293615",
+    "Stats": {
+      "CheerCount": 0,
+      "FavoriteCount": 0,
+      "VisitorCount": 0,
+      "VisitCount": 0
+    },
+    "RankingContext": 0,
+    "SubRooms": [
+      {
+        "SubRoomId": 10429,
+        "RoomId": 7902,
+        "Name": "Home",
+        "DataBlob": "BirthdayTemplate.room",
+        "IsSandbox": true,
+        "MaxPlayers": 20,
+        "Accessibility": 1,
+        "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "SavedByAccountId": -1
+      }
+    ],
+    "Roles": [
+      {
+        "AccountId": 3,
+        "Role": 255,
+        "InvitedRole": 0
+      }
+    ],
+    "DataBlob": null,
+    "UgcVersion": 1,
+    "Tags": [
+      {
+        "Tag": "base",
+        "Type": 0
+      }
+    ],
+    "PromoImages": [],
+    "PromoExternalContent": [],
+    "LoadScreens": []
+  },
+  {
+    "RoomId": 7903,
+    "IsDorm": false,
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 10,
+    "CloningAllowed": true,
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ToxmodEnabled": false,
+    "LoadScreenLocked": false,
+    "PersistenceVersion": 1,
+    "AutoLocalizeRoom": false,
+    "IsDeveloperOwned": false,
+    "RankedEntityId": "",
+    "Name": "CozyStoreTemplate",
+    "Description": "Open and ready for business. Sell your inventions in this cozy themed store. You can customize this template however you like.",
+    "ImageName": "CozyStoreTemplate",
+    "WarningMask": 0,
+    "CustomWarning": "",
+    "CreatorAccountId": 3,
+    "State": 0,
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "IsRRO": false,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsQuest2": true,
+    "SupportsMobile": true,
+    "SupportsJuniors": true,
+    "MinLevel": 0,
+    "CreatedAt": "2025-10-03T04:46:42.5341217",
+    "Stats": {
+      "CheerCount": 0,
+      "FavoriteCount": 1,
+      "VisitorCount": 0,
+      "VisitCount": 2
+    },
+    "RankingContext": 0,
+    "SubRooms": [
+      {
+        "SubRoomId": 10430,
+        "RoomId": 7903,
+        "Name": "Home",
+        "DataBlob": "CozyStoreTemplate.room",
+        "IsSandbox": true,
+        "MaxPlayers": 20,
+        "Accessibility": 1,
+        "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "SavedByAccountId": -1
+      }
+    ],
+    "Roles": [
+      {
+        "AccountId": 3,
+        "Role": 255,
+        "InvitedRole": 0
+      }
+    ],
+    "DataBlob": null,
+    "UgcVersion": 1,
+    "Tags": [
+      {
+        "Tag": "base",
+        "Type": 0
+      }
+    ],
+    "PromoImages": [],
+    "PromoExternalContent": [],
+    "LoadScreens": []
+  },
+  {
+    "RoomId": 7904,
+    "IsDorm": false,
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 10,
+    "CloningAllowed": true,
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ToxmodEnabled": false,
+    "LoadScreenLocked": false,
+    "PersistenceVersion": 1,
+    "AutoLocalizeRoom": false,
+    "IsDeveloperOwned": false,
+    "RankedEntityId": "",
+    "Name": "ModernStoreTemplate",
+    "Description": "Open and ready for business. Sell your inventions in this modern themed store. You can customize this template however you like.",
+    "ImageName": "ModernStoreTemplate",
+    "WarningMask": 0,
+    "CustomWarning": "",
+    "CreatorAccountId": 3,
+    "State": 0,
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "IsRRO": false,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsQuest2": true,
+    "SupportsMobile": true,
+    "SupportsJuniors": true,
+    "MinLevel": 0,
+    "CreatedAt": "2025-10-03T04:46:43.4942868",
+    "Stats": {
+      "CheerCount": 0,
+      "FavoriteCount": 1,
+      "VisitorCount": 0,
+      "VisitCount": 3
+    },
+    "RankingContext": 0,
+    "SubRooms": [
+      {
+        "SubRoomId": 10431,
+        "RoomId": 7904,
+        "Name": "Home",
+        "DataBlob": "ModernStoreTemplate.room",
+        "IsSandbox": true,
+        "MaxPlayers": 20,
+        "Accessibility": 1,
+        "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "SavedByAccountId": -1
+      }
+    ],
+    "Roles": [
+      {
+        "AccountId": 3,
+        "Role": 255,
+        "InvitedRole": 0
+      }
+    ],
+    "DataBlob": null,
+    "UgcVersion": 1,
+    "Tags": [
+      {
+        "Tag": "base",
+        "Type": 0
+      }
+    ],
+    "PromoImages": [],
+    "PromoExternalContent": [],
+    "LoadScreens": []
+  },
+  {
+    "RoomId": 7905,
+    "IsDorm": false,
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 10,
+    "CloningAllowed": true,
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ToxmodEnabled": false,
+    "LoadScreenLocked": false,
+    "PersistenceVersion": 1,
+    "AutoLocalizeRoom": false,
+    "IsDeveloperOwned": false,
+    "RankedEntityId": "",
+    "Name": "CatwalkTemplate",
+    "Description": "Show off your style on your very own catwalk. You can customize this template however you like.",
+    "ImageName": "CatwalkTemplate",
+    "WarningMask": 0,
+    "CustomWarning": "",
+    "CreatorAccountId": 3,
+    "State": 0,
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "IsRRO": false,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsQuest2": true,
+    "SupportsMobile": true,
+    "SupportsJuniors": true,
+    "MinLevel": 0,
+    "CreatedAt": "2025-10-03T04:46:44.3599279",
+    "Stats": {
+      "CheerCount": 0,
+      "FavoriteCount": 0,
+      "VisitorCount": 0,
+      "VisitCount": 1
+    },
+    "RankingContext": 0,
+    "SubRooms": [
+      {
+        "SubRoomId": 10432,
+        "RoomId": 7905,
+        "Name": "Home",
+        "DataBlob": "CatwalkTemplate.room",
+        "IsSandbox": true,
+        "MaxPlayers": 40,
+        "Accessibility": 1,
+        "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "SavedByAccountId": -1
+      }
+    ],
+    "Roles": [
+      {
+        "AccountId": 3,
+        "Role": 255,
+        "InvitedRole": 0
+      }
+    ],
+    "DataBlob": null,
+    "UgcVersion": 1,
+    "Tags": [
+      {
+        "Tag": "base",
+        "Type": 0
+      }
+    ],
+    "PromoImages": [],
+    "PromoExternalContent": [],
+    "LoadScreens": []
+  },
+  {
+    "RoomId": 7906,
+    "IsDorm": false,
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 10,
+    "CloningAllowed": true,
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ToxmodEnabled": false,
+    "LoadScreenLocked": false,
+    "PersistenceVersion": 1,
+    "AutoLocalizeRoom": false,
+    "IsDeveloperOwned": false,
+    "RankedEntityId": "",
+    "Name": "WeddingTemplate",
+    "Description": "Create your own wedding by customizing this template however you like!",
+    "ImageName": "WeddingTemplate",
+    "WarningMask": 0,
+    "CustomWarning": "",
+    "CreatorAccountId": 3,
+    "State": 0,
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "IsRRO": false,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsQuest2": true,
+    "SupportsMobile": true,
+    "SupportsJuniors": true,
+    "MinLevel": 0,
+    "CreatedAt": "2025-10-03T04:46:44.9743739",
+    "Stats": {
+      "CheerCount": 0,
+      "FavoriteCount": 0,
+      "VisitorCount": 0,
+      "VisitCount": 1
+    },
+    "RankingContext": 0,
+    "SubRooms": [
+      {
+        "SubRoomId": 10433,
+        "RoomId": 7906,
+        "Name": "Home",
+        "DataBlob": "WeddingTemplate.room",
+        "IsSandbox": true,
+        "MaxPlayers": 40,
+        "Accessibility": 1,
+        "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "SavedByAccountId": -1
+      }
+    ],
+    "Roles": [
+      {
+        "AccountId": 3,
+        "Role": 255,
+        "InvitedRole": 0
+      }
+    ],
+    "DataBlob": null,
+    "UgcVersion": 1,
+    "Tags": [
+      {
+        "Tag": "base",
+        "Type": 0
+      }
+    ],
+    "PromoImages": [],
+    "PromoExternalContent": [],
+    "LoadScreens": []
+  }
+]
