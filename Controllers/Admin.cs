@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
-using Mocha2021.Classes;
-using Mocha2021.Hub;
+using Gallium2021.Classes;
+using Gallium2021.Hub;
 
-namespace Mocha2021.Controllers;
+namespace Gallium2021.Controllers;
 
 [Controller]
 public class Admin : ControllerBase
@@ -51,7 +51,7 @@ public class Admin : ControllerBase
     {
         var path = Path.Combine(_env.ContentRootPath, "index.html");
         if (System.IO.File.Exists(path)) return PhysicalFile(path, "text/html");
-        return Content("<html><body><h1>Mocha2021 Admin</h1><p>No admin UI has been built yet.</p></body></html>", "text/html");
+        return Content("<html><body><h1>Gallium2021 Admin</h1><p>No admin UI has been built yet.</p></body></html>", "text/html");
     }
 
     [HttpGet("/admin/api/accounts")]

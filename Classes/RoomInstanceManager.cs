@@ -1,7 +1,7 @@
 using System.Collections.Concurrent;
-using Mocha2021.Models;
+using Gallium2021.Models;
 
-namespace Mocha2021.Classes;
+namespace Gallium2021.Classes;
 
 public class RoomMeta
 {

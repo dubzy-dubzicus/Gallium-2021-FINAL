@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
-using Mocha2021.Classes;
+using Gallium2021.Classes;
 
-namespace Mocha2021.Controllers;
+namespace Gallium2021.Controllers;
 
 [Controller]
 public class Moderation : ControllerBase

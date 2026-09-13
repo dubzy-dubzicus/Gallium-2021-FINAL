@@ -1,6 +1,6 @@
 using LiteDB;
 
-namespace Mocha2021.Models;
+namespace Gallium2021.Models;
 
 public class Account
 {

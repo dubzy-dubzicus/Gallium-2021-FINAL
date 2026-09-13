@@ -1,7 +1,7 @@
 using System.Collections.Concurrent;
 using System.Threading.Channels;
 
-namespace Mocha2021.Classes;
+namespace Gallium2021.Classes;
 
 public class ServerState
 {

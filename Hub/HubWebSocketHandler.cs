@@ -1,11 +1,11 @@
 using System.Net.WebSockets;
 using System.Text;
 using System.Text.Json;
-using Mocha2021.Classes;
+using Gallium2021.Classes;
 
 // I love you so much Bentley.
 // I love you more Izzy. <3
-namespace Mocha2021.Hub;
+namespace Gallium2021.Hub;
 
 public class HubWebSocketHandler
 {

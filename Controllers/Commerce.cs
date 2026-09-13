@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
-using Mocha2021.Classes;
-using Mocha2021.Hub;
+using Gallium2021.Classes;
+using Gallium2021.Hub;
 
-namespace Mocha2021.Controllers;
+namespace Gallium2021.Controllers;
 
 [Controller]
 public class Commerce : ControllerBase

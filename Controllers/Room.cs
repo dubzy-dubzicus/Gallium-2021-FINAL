@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
-using Mocha2021.Classes;
-using Mocha2021.Hub;
-using Mocha2021.Models;
+using Gallium2021.Classes;
+using Gallium2021.Hub;
+using Gallium2021.Models;
 
-namespace Mocha2021.Controllers;
+namespace Gallium2021.Controllers;
 
 [Controller]
 public class Room : ControllerBase
@@ -336,7 +336,7 @@ public class Room : ControllerBase
     public IActionResult FeaturedRooms() => new OkObjectResult(new Dictionary<string, object?> { ["status"] = "ok", ["rooms"] = Enumerable.Range(0, 3).Select(i => RoomStub(ServerConfig.MockRoomId + i)).ToList() });
 
     [HttpGet("/Room_server/photon_access_token")]
-    public IActionResult PhotonAccessToken() => new OkObjectResult(new Dictionary<string, object?> { ["status"] = "ok", ["token"] = Guid.NewGuid().ToString(), ["appId"] = "cfaed505-6eb8-49b5-8c2e-2556410cfd22", ["region"] = "us" });
+    public IActionResult PhotonAccessToken() => new OkObjectResult(new Dictionary<string, object?> { ["status"] = "ok", ["token"] = Guid.NewGuid().ToString(), ["appId"] = "ce60ae8b-4900-44c6-988f-044f8ef89157", ["region"] = "us" });
 
     [HttpGet("/Room_server/publishState/configs")]
     public IActionResult PublishStateConfigs() => new OkObjectResult(new Dictionary<string, object?> { ["status"] = "ok", ["configs"] = new List<Dictionary<string, object?>> { new() { ["key"] = "publishEnabled", ["value"] = true } } });

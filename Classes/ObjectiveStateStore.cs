@@ -1,6 +1,6 @@
 using System.Collections.Concurrent;
 
-namespace Mocha2021.Classes;
+namespace Gallium2021.Classes;
 
 public class ObjectiveEntry
 {

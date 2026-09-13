@@ -1,10 +1,10 @@
 using LiteDB;
-using Mocha2021.Models;
+using Gallium2021.Models;
 using JsonSerializer = System.Text.Json.JsonSerializer;
 using JsonElement = System.Text.Json.JsonElement;
 using JsonValueKind = System.Text.Json.JsonValueKind;
 
-namespace Mocha2021.Classes;
+namespace Gallium2021.Classes;
 
 public class RoomDB
 {

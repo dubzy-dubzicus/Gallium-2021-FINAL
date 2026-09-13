@@ -1,8 +1,8 @@
 using LiteDB;
-using Mocha2021.Models;
+using Gallium2021.Models;
 using JsonSerializer = System.Text.Json.JsonSerializer;
 
-namespace Mocha2021.Classes;
+namespace Gallium2021.Classes;
 
 public class PlayerDB
 {

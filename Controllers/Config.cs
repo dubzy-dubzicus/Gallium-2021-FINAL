@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
-using Mocha2021.Classes;
-using Mocha2021.Models;
+using Gallium2021.Classes;
+using Gallium2021.Models;
 
-namespace Mocha2021.Controllers;
+namespace Gallium2021.Controllers;
 
 [Controller]
 public class Config : ControllerBase
@@ -99,18 +99,18 @@ public class Config : ControllerBase
     public IActionResult LoadingScreenTips() => new OkObjectResult(new List<Dictionary<string, object?>>
     {
         Tip("Rec Room Tokens", "Redeem your Rec Room Tokens for all kinds of fun rewards! You can shop at the Rec Center Merch Booth or the Store section of your Watch Menu.", "TokenBin"),
-        Tip("Become a Star!", "Use #Mocha2021 on your Instagram and Twitter posts or in the Discord server for a chance to make it onto our Community Board!", "Star"),
+        Tip("Become a Star!", "Use #Gallium2021 on your Instagram and Twitter posts or in the Discord server for a chance to make it onto our Community Board!", "Star"),
         Tip("Find Your Style", "Personalize your outfit and appearance in your Dorm Room.", "Style"),
         Tip("Room Cheers", "Cheer and Favorite any room in the This Room section of your Watch Menu.", "RoomCheers"),
         Tip("Daily Challenges", "Check out the Challenges section in your watch for fun ways to earn in-game rewards.", "DailyChallenges"),
-        Tip("Welcome to Mocha2021", "Mocha2021 is a revival of 2021 Rec Room where you can create and play games with friends. It's a faithful continuation of the original game, kept alive after it shut down in June 2026!", "Welcome"),
-        Tip("Join the Mocha2021 Community!", "Chat with other like-minded community members by joining the Discord server!", "Community"),
+        Tip("Welcome to Gallium2021", "Gallium2021 is a revival of 2021 Rec Room where you can create and play games with friends. It's a faithful continuation of the original game, kept alive after it shut down in June 2026!", "Welcome"),
+        Tip("Join the Gallium2021 Community!", "Chat with other like-minded community members by joining the Discord server!", "Community"),
         Tip("Laser Tag Merch", "You earn tickets for every game of Laser Tag. Redeem them for awesome Laser Tag gear!", "TagMerch"),
         Tip("We're all on Rec.Net!", "Log into your Rec.Net profile to stay in touch with your friends any time!", "RecNet"),
         Tip("Check out clubs!", "Create or join a club. Visit all the clubhouses and even set one as your spawn point!", "Clubs"),
         Tip("Hair Dye Patterns", "Express yourself by mixing and matching colors with the new hair dye patterns!", "HairDye"),
         Tip("Georgie..", "We're looking for brisket.", "Brisket"),
-        Tip("Did you know..", "Your account password in Mocha2021 is secured using bcrypt, so nobody, not even staff can access your account!", "Locked"),
+        Tip("Did you know..", "Your account password in Gallium2021 is secured using bcrypt, so nobody, not even staff can access your account!", "Locked"),
         Tip("cool loading screen", "check this out", ""),
     });
 
@@ -212,7 +212,7 @@ public class Config : ControllerBase
         },
         ["CurrentAnnouncement"] = new Dictionary<string, object?>
         {
-            ["Message"] = "Welcome to Mocha2021! Have fun and be sure to follow the rules.", ["MoreInfoUrl"] = "",
+            ["Message"] = "Welcome to Gallium2021! Have fun and be sure to follow the rules.", ["MoreInfoUrl"] = "",
         },
         ["InstagramImages"] = new List<Dictionary<string, object?>>
         {
@@ -224,7 +224,7 @@ public class Config : ControllerBase
             new()
             {
                 ["BlobName"] = "VideoData24f0908d-9edc-4dcb-b853-cd6c820e25726943679983027471793",
-                ["Title"] = "Mocha2021 - Welcome!",
+                ["Title"] = "Gallium2021 - Welcome!",
                 ["Description"] = "The revival for 2021 Rec Room where you can play, create, and connect.",
                 ["ThumbnailBlobName"] = "ImageData350f571e-8323-4498-ad34-2d9678d5b5841454021500552003911",
                 ["SourceUrl"] = "https://youtu.be/uo_m8hJUQVU",

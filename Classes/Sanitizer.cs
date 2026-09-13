@@ -1,6 +1,6 @@
 using System.Text.RegularExpressions;
 
-namespace Mocha2021.Classes;
+namespace Gallium2021.Classes;
 
 public static class Sanitizer
 {

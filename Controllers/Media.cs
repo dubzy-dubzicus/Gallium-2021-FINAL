@@ -1,11 +1,11 @@
 using Microsoft.AspNetCore.Mvc;
-using Mocha2021.Classes;
+using Gallium2021.Classes;
 using SixLabors.ImageSharp;
 using SixLabors.ImageSharp.PixelFormats;
 using SixLabors.ImageSharp.Processing;
 using SixLabors.ImageSharp.Formats.Png;
 
-namespace Mocha2021.Controllers;
+namespace Gallium2021.Controllers;
 
 [Controller]
 public class Media : ControllerBase
@@ -142,9 +142,9 @@ public class Media : ControllerBase
 
     private static readonly List<Dictionary<string, object?>> SlideshowImages = new()
     {
-        new() { ["SavedImageId"] = 20, ["ImageName"] = "slideshow1.jpg", ["Username"] = "Mocha2021", ["PlayerId"] = 1, ["RoomName"] = "RecCenter" },
-        new() { ["SavedImageId"] = 21, ["ImageName"] = "slideshow2.jpg", ["Username"] = "Mocha2021", ["PlayerId"] = 1, ["RoomName"] = "RecCenter" },
-        new() { ["SavedImageId"] = 22, ["ImageName"] = "slideshow3.jpg", ["Username"] = "Mocha2021", ["PlayerId"] = 1, ["RoomName"] = "RecCenter" },
+        new() { ["SavedImageId"] = 20, ["ImageName"] = "slideshow1.jpg", ["Username"] = "Gallium2021", ["PlayerId"] = 1, ["RoomName"] = "RecCenter" },
+        new() { ["SavedImageId"] = 21, ["ImageName"] = "slideshow2.jpg", ["Username"] = "Gallium2021", ["PlayerId"] = 1, ["RoomName"] = "RecCenter" },
+        new() { ["SavedImageId"] = 22, ["ImageName"] = "slideshow3.jpg", ["Username"] = "Gallium2021", ["PlayerId"] = 1, ["RoomName"] = "RecCenter" },
     };
 
     [HttpGet("/api/images/v1/slideshow")]
